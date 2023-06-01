@@ -18,6 +18,7 @@ class _CartScreenState extends State<CartScreen> {
 
   int counter=1;
   double price=0.0;
+  //hfhfhfhf
   @override
   Widget build(BuildContext context) {
     price=widget.model.price;
